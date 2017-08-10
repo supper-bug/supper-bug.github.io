@@ -1,1 +1,5 @@
 theme: jekyll-theme-tactile
+deploy: 
+type: git 
+repository: git@github.com:supper-bug/supper-bug.github.io 
+branch: master
