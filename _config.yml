@@ -2,4 +2,4 @@ deploy:
 type: git 
 repository: git@github.com:supper-bug/supper-bug.github.io 
 branch: master
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
